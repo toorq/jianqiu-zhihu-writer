@@ -10,7 +10,7 @@
 
 ---
 
-知乎用户 [@剑萩](https://www.zhihu.com/people/jian-qiu-94) 行文风格分析 & AI 写作 Skill。
+知乎用户 [@剑萩](https://www.zhihu.com/people/toorq) 行文风格分析 & AI 写作 Skill。
 
 基于 **1933 条回答 + 19 篇文章**的深度分析提炼而成，涵盖词汇频率统计、结构模板、防杠话术、论证方法等完整写作框架。
 
