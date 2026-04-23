@@ -6,10 +6,10 @@ description: |
   or requests help with Zhihu-style writing.
 
   It provides the complete writing framework, vocabulary, structure templates, and behavioral
-  rules derived from analyzing 1,933 answers and 19 articles by the user "剑秋".
+  rules derived from analyzing 1,933 answers and 19 articles by the user "剑萩".
 ---
 
-# 剑秋风格知乎写作助手
+# 剑萩风格知乎写作助手
 
 ## 风格定位
 
